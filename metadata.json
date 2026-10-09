@@ -1,0 +1,6 @@
+{
+  "name": "Heliocide: Audio Drama",
+  "description": "Full-cast cinematic audio drama player performing 'Heliocide: A Star Silk Screenplay' with character-assigned voices, acoustic staging, and synchronized teleprompter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
